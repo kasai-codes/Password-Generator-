@@ -12,7 +12,8 @@ I acheived this by storing strings in varibles that were split to be choosen ind
 ## Preview
 Have a look.
 
-GitHub Pages: 
-GitHub Repository: 
+GitHub Pages: https://kasaipreston.github.io/Password-Generator-/
+
+GitHub Repository: https://github.com/kasaipreston/Password-Generator-
 
 ![Screenshot](assets/images/screenshot.png)
