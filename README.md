@@ -15,4 +15,4 @@ Have a look.
 GitHub Pages: 
 GitHub Repository: 
 
-![Screenshot](assets/images/screenshpt.png)
+![Screenshot](assets/images/screenshot.png)
